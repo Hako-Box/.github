@@ -31,7 +31,7 @@ Hako (箱) veut dire « boîte » en japonais.
 | Guide d’installation | En ligne, pour l’envoi hors de notre zone, qui ouvrira bientôt |
 | Démonstration de la première installation | En ligne, avec une box simulée |
 | Prototype de la box | Dessiné en 3D, images de synthèse sur le site |
-| Système de la box (MaBox OS) | En construction : l’image du système se construit, les étapes suivantes sont prévues |
+| Système de la box (HakOS) | Image Raspberry Pi OS avec Immich et Nextcloud, construite et vérifiée sur ordinateur ; premier essai sur un Raspberry Pi 5 à venir |
 
 **Feuille de route :** d’abord Hako Home, installée chez vous dans notre zone. Ensuite, l’envoi et l’installation par vous-même avec notre guide. Puis Hako Pro, pour les petites entreprises.
 
